@@ -15,6 +15,7 @@ export default function Home() {
     <Container className={"divide-y"}>
       <main className="flex flex-col">
         <Image
+          unoptimized={true}
           className="mb-4 sm:rounded-[2rem] sm:p-4"
           src="/image-omelette.jpeg"
           alt="omelette image"
