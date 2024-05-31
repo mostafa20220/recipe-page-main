@@ -14,8 +14,8 @@
   --dark-charcoal: hsl(24, 5%, 18%);
 
   /* Typography */
-  --body-font-size: 10x;
-  font-size: 10px;
+  --body-font-size: 16x;
+  font-size: 16px;
 }
 
 body {
